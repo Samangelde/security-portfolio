@@ -10,7 +10,7 @@ Contact: [email] · [LinkedIn URL]
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | coming, week 1 |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Write-Up here](https://github.com/Samangelde/Operation-Dead-Deploy-Writeup/blob/17308124059a3e9e0aca6f704a758a1996119ca8/Operation%20Dea%20Deploy%20Writeup.md) |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
